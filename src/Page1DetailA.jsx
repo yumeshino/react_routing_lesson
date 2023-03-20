@@ -1,4 +1,4 @@
-Page1DetailA.jsxexport const Page1DetailA = () => {
+ const Page1DetailA = () => {
   return (
     <div>
       <h1>Page1DetailAです</h1>
